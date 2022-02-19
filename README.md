@@ -5,7 +5,7 @@ Vanilla Javascript Projects from `15 Vanilla JS projects course`
 
 | No | Project(*With Link*) |Demo Site|
 -----|------------|------|
-1|[Color Flipper](https://github.com/DummyKen/color-flipper)
+1|[Color Flipper](https://github.com/DummyKen/color-flipper)|[Demo](https://color-flipper-gray.vercel.app/)
 2|[Simple Counter](https://github.com/DummyKen/simple-counter)
 3|[Reviews/Quotes](https://github.com/DummyKen/reviews-quotes)
 4|[Navbar](https://github.com/DummyKen/navbar)
